@@ -1,0 +1,2 @@
+https://open-meteo.com/
+https://open-meteo.com/en/docs/historical-weather-api

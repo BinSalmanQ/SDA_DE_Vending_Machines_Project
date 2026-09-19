@@ -26,9 +26,9 @@ The three raw sources come from different systems with different quality issues:
 │   │   ├── perishable_goods_management.csv
 │   │   └── smart_manufacturing_data.csv
 │   └── clean/                      # output CSVs (produced by these scripts)
-│       ├── sales_clean.csv
-│       ├── perishable_goods_clean.csv
-│       └── sensors_clean.csv
+│       ├── clean_sales.csv
+│       ├── clean_inventory.csv
+│       └── clean_sensors.csv
 └── README.md
 ```
  

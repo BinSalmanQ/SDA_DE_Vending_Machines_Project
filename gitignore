@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Credentials — never commit these
+kaggle.json
+.env
+*.pem
+
+# dbt (once the project exists)
+dbt_project/target/
+dbt_project/dbt_packages/
+dbt_project/logs/
+
+# OS
+.DS_Store
+Thumbs.db
